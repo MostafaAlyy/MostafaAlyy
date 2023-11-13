@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/mostafa-ali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-ali1" height="30" width="40" /></a>
 <a href="https://fb.com/mastafa.ali.92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mastafa.ali.92" height="30" width="40" /></a>
 <a href="https://instagram.com/mostafaali975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafaali975" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mostafa ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mostafa ali" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mostafaali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mostafaali1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mostafaalii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mostafaalii" height="30" width="40" /></a>
 </p>
 

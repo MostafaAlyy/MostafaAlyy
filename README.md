@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mostafa.ali1722@gmail.com**
 
-- 📄 Know about my experiences (My Resume)[https://drive.google.com/file/d/1eCy8nzy4DR0JeCe1weC-NhIKVLQ-g-TH/view?usp=sharing](https://drive.google.com/file/d/1eCy8nzy4DR0JeCe1weC-NhIKVLQ-g-TH/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1eCy8nzy4DR0JeCe1weC-NhIKVLQ-g-TH/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

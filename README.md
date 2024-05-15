@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Ali</h1>
 <h3 align="center">A passionate flutter developer from Egypt</h3>
 
-<img align="right" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" alt="Girl in a jacket" width="250">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhxampoOWxwemZtdXZ3b3I1czE5M3JuODUxeTF6dmN2dmwyeXdveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="250">
 
 
 - 🌱 I’m currently learning **Backend, Advanced Flutter, and Competitive Programming.**

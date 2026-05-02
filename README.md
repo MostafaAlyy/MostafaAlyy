@@ -31,7 +31,7 @@ Flutter at scale · Go backend design · AI-powered products · scaling a solo-b
 
 ### 📫 Reach me
 
-📧 **mostafa@studyzone.app** · 📄 [Resume]([https://drive.google.com/file/d/1CuuaM32Y_vCakW76akY3L2CDI3uNhE2V/view?usp=sharing](https://drive.google.com/file/d/1PcBsL3Sd5yaaWi7xhMQARzmMMqew7mbJ/view?usp=sharing))
+📧 **mostafa@studyzone.app** · 📄 [Resume](https://drive.google.com/file/d/1PcBsL3Sd5yaaWi7xhMQARzmMMqew7mbJ/view?usp=sharing)
 
 ---
 

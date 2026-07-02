@@ -2,7 +2,7 @@
 <h3 align="center">Founder of <a href="https://studyzone.app/">Study Zone</a> — Full-Stack Engineer (Flutter + Go) from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <a href="https://studyzone.app/"><img src="https://img.shields.io/badge/Study%20Zone-100K%2B%20users-0b2a4a?style=for-the-badge" alt="Study Zone"/></a>
+  <a href="https://studyzone.app/"><img src="https://img.shields.io/badge/Study%20Zone-150K%2B%20users-0b2a4a?style=for-the-badge" alt="Study Zone"/></a>
   <a href="https://www.linkedin.com/in/mostafa-ali1/"><img src="https://img.shields.io/badge/Open%20to%20work-Founding%20Eng%20%2F%20Full--Stack-2ea44f?style=for-the-badge" alt="Open to work"/></a>
   <a href="mailto:mostafa@studyzone.app"><img src="https://img.shields.io/badge/Email-mostafa%40studyzone.app-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>

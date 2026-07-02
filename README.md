@@ -12,7 +12,7 @@
 ### 🚀 What I'm building
 
 [**Study Zone**](https://studyzone.app/) — interactive education platform for high-school students in Egypt.
-**100,000+ users** on Android & Web. Built solo (after a 6-month founding team) on Flutter + Go (Fiber) + PostgreSQL + Redis + Firebase + Gemini AI.
+**150,000+ users** on Android & Web. Built solo (after a 6-month founding team) on Flutter + Go (Fiber) + PostgreSQL + Redis + Firebase + Gemini AI.
 
 - 🌐 Web · [studyzone.app](https://studyzone.app/)
 - 📱 Play Store · [app.studyzone](https://play.google.com/store/apps/details?id=app.studyzone)

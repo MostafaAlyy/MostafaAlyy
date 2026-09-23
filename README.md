@@ -1,54 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mostafa Ali</h1>
-<h3 align="center">Founder of <a href="https://studyzone.app/">Study Zone</a> — Full-Stack Engineer (Flutter + Go) from Egypt 🇪🇬</h3>
+# Mostafa Ali Zakaria
 
-<p align="center">
-  <a href="https://studyzone.app/"><img src="https://img.shields.io/badge/Study%20Zone-150K%2B%20users-0b2a4a?style=for-the-badge" alt="Study Zone"/></a>
-  <a href="https://www.linkedin.com/in/mostafa-ali1/"><img src="https://img.shields.io/badge/Open%20to%20work-Founding%20Eng%20%2F%20Full--Stack-2ea44f?style=for-the-badge" alt="Open to work"/></a>
-  <a href="mailto:mostafa@studyzone.app"><img src="https://img.shields.io/badge/Email-mostafa%40studyzone.app-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+Software engineer in Cairo building products with **Go, Flutter, PostgreSQL, and applied AI**. I founded [StudyZone](https://studyzone.app/), an education platform with **209,000+ registered users**, and I'm building [ShirtZone](https://shirtzone.web.app/), an AI-powered clothing design and e-commerce platform.
 
----
+I'm available for **full-time roles in Cairo or remotely**, and for clearly scoped Flutter and Go projects.
 
-### 🚀 What I'm building
+## What I've built
 
-[**Study Zone**](https://studyzone.app/) — interactive education platform for high-school students in Egypt.
-**150,000+ users** on Android & Web. Built solo (after a 6-month founding team) on Flutter + Go (Fiber) + PostgreSQL + Redis + Firebase + Gemini AI.
+**[StudyZone](https://studyzone.app/)** · [iOS](https://apps.apple.com/eg/app/studyzone/id6803536925) · [Android](https://play.google.com/store/apps/details?id=app.studyzone)
+Founded and engineered the student apps, Go backend, and operational dashboards. The platform brings together video learning, quizzes, subscriptions, chat, AI tutoring, and teacher tools. My work spans Flutter releases, PostgreSQL performance, payment reconciliation, and production incident response.
 
-- 🌐 Web · [studyzone.app](https://studyzone.app/)
-- 📱 Play Store · [app.studyzone](https://play.google.com/store/apps/details?id=app.studyzone)
+**[ShirtZone](https://shirtzone.web.app/)**
+Building an AI-powered design experience for personalized T-shirts, from idea and artwork editing to garment placement, quote, cart, and checkout. The product uses Flutter and Go with Arabic-first, responsive interfaces.
 
-### 🧠 Working with
+## Engineering focus
 
-Flutter · Dart · Go (Fiber) · PostgreSQL · Redis · Firebase suite · Gemini AI · embeddings · WebSockets · Docker · GCP · AWS
+- **Backend:** Go, Fiber, PostgreSQL, Redis, REST APIs, WebSockets, payments, and performance
+- **Apps:** Flutter, Dart, Cubit/BLoC, Android, iOS, web, Firebase, and Arabic RTL interfaces
+- **AI and delivery:** LLM integration, pgvector search, evaluations, Docker, Railway, and GitHub Actions
 
-### 💬 Ask me about
+A few public examples: [Flutter Web Native](https://github.com/MostafaAlyy/flutter-web-native), [Flutter rendering performance reproduction](https://github.com/MostafaAlyy/impeller_gles_repro), and [StudyZone Note Studio](https://github.com/MostafaAlyy/studyzone-note-studio). The production StudyZone and ShirtZone repositories are private; the live products are linked above.
 
-Flutter at scale · Go backend design · AI-powered products · scaling a solo-built startup · payments & real-time systems
-
-### 🧮 Problem solving
-
-**800+** problems solved on [Codeforces](https://codeforces.com/profile/mostafaalii) · consistently top **30%**
-
-### 📫 Reach me
-
-📧 **mostafa@studyzone.app** · 📄 [Resume](https://drive.google.com/file/d/1PcBsL3Sd5yaaWi7xhMQARzmMMqew7mbJ/view?usp=sharing)
-
----
-
-### 🛠 Tech stack
-
-[![Skills](https://skillicons.dev/icons?i=flutter,dart,go,postgres,redis,firebase,docker,gcp,aws,cpp,cs,dotnet,git,postman,linux,vscode&perline=8)](https://skillicons.dev)
-
-### 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-ali1/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mostafaalii)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/mostafaali1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mostafaali975)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mastafa.ali.92)
-
-### 📊 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaAlyy&hide_border=true" alt="streak" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/mostafa-ali1/) · [Email](mailto:mostafa@studyzone.app) · [Codeforces](https://codeforces.com/profile/mostafaalii)

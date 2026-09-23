@@ -2,7 +2,7 @@
 
 Software engineer in Cairo building products with **Go, Flutter, PostgreSQL, and applied AI**. I founded [StudyZone](https://studyzone.app/), an education platform with **209,000+ registered users**, and I'm building [ShirtZone](https://shirtzone.web.app/), an AI-powered clothing design and e-commerce platform.
 
-I'm available for **full-time roles in Cairo or remotely**, and for clearly scoped Flutter and Go projects.
+I'm available now for **full-time roles in Cairo, remote work, or relocation**, and for clearly scoped Flutter and Go projects. [Download my Flutter CV](resume/Mostafa_Ali_CV_Flutter_Public_2026.pdf).
 
 ## What I've built
 
